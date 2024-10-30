@@ -58,7 +58,7 @@ nltk.download('vader_lexicon')
 
 1. Run the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run Stock_dashboard.py
 ```
 
 2. Navigate to the provided local URL (typically `http://localhost:8501`)
