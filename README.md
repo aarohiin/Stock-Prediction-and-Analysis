@@ -39,7 +39,7 @@ ta (Technical Analysis Library)
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/aarohiin/Stock-Prediction-and-Analysis/tree/main
 cd stock-analysis-dashboard
 ```
 
