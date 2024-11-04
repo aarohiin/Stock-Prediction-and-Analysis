@@ -48,12 +48,6 @@ cd stock-analysis-dashboard
 pip install -r requirements.txt
 ```
 
-3. Download NLTK data:
-```python
-import nltk
-nltk.download('vader_lexicon')
-```
-
 ## 🚀 Usage
 
 1. Run the Streamlit app:
